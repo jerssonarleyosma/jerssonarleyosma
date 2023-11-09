@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jersson Osma</h1>
-<h3 align="center">A started programer who's loves javascript for everything</h3>
+<h3 align="center">A starter programer who loves javascript for everything</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerssonarleyosma&label=Profile%20views&color=0e75b6&style=flat" alt="jerssonarleyosma" /> </p>
 
-- 🔭 I’m currently working on [Personal introduction](https://github.com/jerssonarleyosma)
+- 🔭 I’m currently working on [Personal introduction](https://github.com/jerssonarleyosma) and [Buscando a Bruno]([https://github.com/jerssonarleyosma](https://github.com/jerssonarleyosma/Buscando-a-Bruno)) 
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Html CSS and  Javascript **
 
-- 🤝 I’m looking for help with **javascript for backend**
+- 🤝 I’m looking for help with **javascript for backend, apis webpack react web aplications scalable code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jerssonarleyosma](https://github.com/jerssonarleyosma)
 
