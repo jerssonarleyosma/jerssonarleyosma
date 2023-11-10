@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerssonarleyosma&label=Profile%20views&color=0e75b6&style=flat" alt="jerssonarleyosma" /> </p>
 
-- 🔭 I’m currently working on [Personal introduction](https://github.com/jerssonarleyosma) and [Buscando a Bruno]([https://github.com/jerssonarleyosma](https://github.com/jerssonarleyosma/Buscando-a-Bruno)) 
+- 🔭 I’m currently working on [Personal introduction](https://github.com/jerssonarleyosma) and [Buscando a Bruno](https://github.com/jerssonarleyosma)(https://github.com/jerssonarleyosma/Buscando-a-Bruno)) 
 
 - 🌱 I’m currently learning **Html CSS and  Javascript **
 
